@@ -14,22 +14,38 @@
 
 ---
 
-## GitHub Stats
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishjain26&show_icons=true&theme=tokyonight)
 
 ---
 
-## Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=anishjain26&theme=tokyonight)
+
 
 ---
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishjain26&layout=compact&theme=tokyonight)
 
 ---
 
 ### King Here
+## Gamer Progress Level System 🎮
+
+| Metric | Value |
+|--------|-------|
+| Current Level | 🟢 Bronze |
+| XP Earned | 190 XP |
+| Next Level | Silver (300 XP needed) |
+| Streak | 🔥 2 Days |
+| Contributions | 19 |
+
+### Achievements 🏆
+| Badge | Status |
+|--------|-------|
+| First Commit | Earned |
+| Week Streak | Earned |
+| Month Streak | Locked |
+| 100 Contributions | Locked |
+![Game Badge](https://img.shields.io/badge/LEVEL-UP-brightgreen?style=for-the-badge)
+![XP Points](https://img.shields.io/badge/XP-190-blueviolet?style=for-the-badge)
+![Rank](https://img.shields.io/badge/RANK-BRONZE-orange?style=for-the-badge)
+## Contribution Snake 🐍
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 
