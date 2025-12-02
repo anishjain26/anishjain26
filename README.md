@@ -14,12 +14,13 @@
 
 ## Skills Progress ⚡
 
-| Skill | Progress |
-|-------|---------|
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) Java | ▓▓▓▓▓▓░░░░ 70% |
-| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) Selenium | ▓▓▓▓▓▓▓░░ 80% |
-| ![TestNG](https://img.shields.io/badge/TestNG-%23f2a900?style=flat&logo=testng&logoColor=white) TestNG | ▓▓▓▓▓░░░░ 60% |
-| ![Cucumber](https://img.shields.io/badge/Cucumber-4BAF50?style=flat&logo=cucumber&logoColor=white) Cucumber | ▓▓▓▓▓▓░░░ 65% |
+
+| Skill | Level |
+|-------|-------|
+| ![Java](https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge&logo=openjdk&logoColor=white) | 70% |
+| ![Selenium](https://img.shields.io/badge/Selenium-80%25-blue?style=for-the-badge&logo=selenium&logoColor=white) | 80% |
+| ![TestNG](https://img.shields.io/badge/TestNG-60%25-orange?style=for-the-badge&logo=testng&logoColor=white) | 60% |
+| ![Cucumber](https://img.shields.io/badge/Cucumber-65%25-green?style=for-the-badge&logo=cucumber&logoColor=white) | 65% |
 
 
 
