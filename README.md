@@ -15,12 +15,12 @@
 ## Skills Progress ⚡
 
 
-| Skill | Level |
-|-------|-------|
-| ![Java](https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge&logo=openjdk&logoColor=white) | 70% |
-| ![Selenium](https://img.shields.io/badge/Selenium-80%25-blue?style=for-the-badge&logo=selenium&logoColor=white) | 80% |
-| ![TestNG](https://img.shields.io/badge/TestNG-60%25-orange?style=for-the-badge&logo=testng&logoColor=white) | 60% |
-| ![Cucumber](https://img.shields.io/badge/Cucumber-65%25-green?style=for-the-badge&logo=cucumber&logoColor=white) | 65% |
+
+![Java](https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-80%25-blue?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-60%25-orange?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-65%25-green?style=for-the-badge&logo=cucumber&logoColor=white)
+
 
 
 
