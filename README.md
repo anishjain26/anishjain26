@@ -12,18 +12,14 @@
 ## GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=anishjain26&theme=dracula&column=6&margin-w=10)
 
----
+## GitHub Stats 🎮
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishjain26&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishjain26&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishjain26&layout=compact&theme=tokyonight)
 
 
----
-
-
-
----
-
----
-
-### King Here
+### Anish Here
 ## Gamer Progress Level System 🎮
 
 | Metric | Value |
