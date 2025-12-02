@@ -12,15 +12,11 @@
 ## GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=anishjain26&theme=dracula&column=6&margin-w=10)
 
-## GitHub Stats 🎮
+## Top Projects 🚀
+- [Selenium Automation Framework](https://github.com/anishjain26/selenium-framework) 🟢 Java, TestNG, Maven
+- [BDD Cucumber Project](https://github.com/anishjain26/bdd-cucumber) 🔹 Java, Cucumber, POM
+- [API Automation](https://github.com/anishjain26/api-tests) 🟡 RestAssured, TestNG
 
-### GitHub Stats 🎮
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anishjain26&theme=tokyonight&hide_border=false&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com?user=anishjain26&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anishjain26&layout=compact&theme=tokyonight)
 
 
 
