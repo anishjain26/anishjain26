@@ -16,11 +16,11 @@
 
 ### GitHub Stats 🎮
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anishjain26&theme=tokyonight&hide_border=false&show_icons=true)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=anishjain26&theme=tokyonight&hide_border=false)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anishjain26&layout=compact&theme=tokyonight)
 
 
 
